@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mauro</h1>
 <h3 align="center">Técnico electrónico. Desarrollador Web. Apasionado por la tecnología en general.</h3>
 
-- 👨‍💻 All of my projects are available at [https://r5mauro.github.io/portfolio/](https://r5mauro.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [my portfolio](https://r5mauro.github.io/portfolio/)
 
 - 📫 How to reach me **mauroromero0509@gmail.com**
 
